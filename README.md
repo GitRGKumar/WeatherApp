@@ -71,6 +71,8 @@ Node.js (LTS version recommended)
 
   npm install
 
+  npm install @react-native-async-storage/async-storage
+
 **Running on iOS**
 
   cd ios && pod install && cd ..
